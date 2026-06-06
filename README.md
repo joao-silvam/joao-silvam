@@ -22,7 +22,7 @@ A Java system to register employees and calculate salaries based on employment t
 ### 🎂 Birthday Website
 An interactive birthday website built with HTML, CSS and JavaScript.  
 **Technologies:** HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/joao-silvam/aniversario-lala)
+🔗 [View Repository](https://github.com/joao-silvam/interactive-birthday-card)
 ---
 
 ## 📫 Connect with me
