@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm João Victor! 👋
 
-<!--
-**joao-silvam/joao-silvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Analysis and Development Student at UNA  
+📍 Minas Gerais, Brazil  
+💻 Learning Java and Object-Oriented Programming
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies I'm Learning
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🗂️ Sistema de Cadastro de Colaboradores
+A Java system to register employees and calculate salaries based on employment type.  
+**Technologies:** Java, OOP, ArrayList, Scanner  
+🔗 [View Repository](https://github.com/joao-silvam/Sistema-colaboradores)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-moreira-silva-510699323)
