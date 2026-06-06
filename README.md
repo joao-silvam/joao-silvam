@@ -17,7 +17,7 @@
 ### 🗂️ Payroll Management System
 A Java system to register employees and calculate salaries based on employment type.
 
-**Technologies:** Java, OOP, ArrayList, Scanner  
+ **Technologies:** Java, OOP, ArrayList, Scanner  
 🔗 [View Repository](https://github.com/joao-silvam/Payroll-management-system)
 
 ### 🎂 Birthday Website
