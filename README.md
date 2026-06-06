@@ -21,9 +21,11 @@ A Java system to register employees and calculate salaries based on employment t
 🔗 [View Repository](https://github.com/joao-silvam/Payroll-management-system)
 
 ### 🎂 Birthday Website
+
 An interactive birthday website built with HTML, CSS and JavaScript.
 
-**Technologies:** HTML, CSS, JavaScript  
+Technologies: HTML, CSS, JavaScript
+
 🔗 [View Repository](https://github.com/joao-silvam/interactive-birthday-card)
 ---
 
