@@ -1,7 +1,7 @@
 # Hi, I'm João Victor! 👋
 
-🎓 Systems Analysis and Development Student at UNA  
-📍 Minas Gerais, Brazil  
+🎓 Systems Analysis and Development Student at UNA
+📍 Minas Gerais, Brazil
 💻 Learning Java and Object-Oriented Programming
 
 ---
@@ -15,9 +15,11 @@
 ## 📌 Featured Projects
 
 ### 🗂️ Payroll Management System
+
 A Java system to register employees and calculate salaries based on employment type.
 
- **Technologies:** Java, OOP, ArrayList, Scanner
+Technologies: Java, OOP, ArrayList, Scanner
+
 🔗 [View Repository](https://github.com/joao-silvam/Payroll-management-system)
 
 ### 🎂 Birthday Website
@@ -27,6 +29,7 @@ An interactive birthday website built with HTML, CSS and JavaScript.
 Technologies: HTML, CSS, JavaScript
 
 🔗 [View Repository](https://github.com/joao-silvam/interactive-birthday-card)
+
 ---
 
 ## 📫 Connect with me
